@@ -6,12 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="539ce3b1-4dd3-48c9-8538-42a35b0cca3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.first-console-app.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.first-console-app.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Calculator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Person.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rider" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +21,7 @@
     <setting file="file://$PROJECT_DIR$/Variables/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Classes/Calculator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HelloWorld/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Strings/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -88,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1646290389561</updated>
       <workItem from="1646290389564" duration="2583000" />
-      <workItem from="1646731800150" duration="2756000" />
+      <workItem from="1646731800150" duration="4740000" />
     </task>
     <task id="LOCAL−00001" summary="first commit">
       <created>1646291076151</created>
