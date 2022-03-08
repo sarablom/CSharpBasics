@@ -23,6 +23,20 @@ namespace Variables
             //0 - 255
             Console.WriteLine("{0} {1}", float.MinValue, float.MaxValue);
             //-3,4028235E+38 - 3,4028235E+38
+
+            //Type conversion, casting - Compatible types
+            float f = 1.0f;
+            int g = (int)f;
+            
+            //Non-compatible types
+            string s = "1";
+            int i = Convert.ToInt32(s);
+            int j = int.Parse(s);
+            
+            //ToByte()
+            //ToInt16()
+            //ToInt32()
+            //ToInt34()
         }
     }
 }

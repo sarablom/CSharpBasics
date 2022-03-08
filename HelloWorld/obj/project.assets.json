@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\handy\\CSharp\\first-console-app\\first-console-app.csproj",
+      "projectUniqueName": "C:\\Users\\handy\\CSharp\\first-console-app\\HelloWorld\\first-console-app.csproj",
       "projectName": "first-console-app",
-      "projectPath": "C:\\Users\\handy\\CSharp\\first-console-app\\first-console-app.csproj",
+      "projectPath": "C:\\Users\\handy\\CSharp\\first-console-app\\HelloWorld\\first-console-app.csproj",
       "packagesPath": "C:\\Users\\handy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\handy\\CSharp\\first-console-app\\obj\\",
+      "outputPath": "C:\\Users\\handy\\CSharp\\first-console-app\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

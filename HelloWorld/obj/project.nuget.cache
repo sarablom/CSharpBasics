@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g5QM6n3+njoZtz/mziEbzgEWEvzbIMGJ9fIcyiElpG5ynKmnX0bT6lP9NJ1ty9ULjz9Lt4AJlhIn1A0Z8tANpQ==",
+  "dgSpecHash": "q+KXmCSSq8ULy75SwSQRhpPYHgWiQ4gczILNmeU2jIqip/NB9qvxzqEDzbuavps3peNerAnCkco1Hhf5h7fEzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\handy\\CSharp\\first-console-app\\first-console-app.csproj",
+  "projectFilePath": "C:\\Users\\handy\\CSharp\\first-console-app\\HelloWorld\\first-console-app.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
