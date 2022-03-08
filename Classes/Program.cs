@@ -1,5 +1,5 @@
 ﻿using System;
-using Classes.Calculator;
+using CSharpfundamentals.Calculator;
 
 namespace Classes
 {

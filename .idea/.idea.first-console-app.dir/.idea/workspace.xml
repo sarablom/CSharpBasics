@@ -6,21 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="539ce3b1-4dd3-48c9-8538-42a35b0cca3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.first-console-app.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.first-console-app.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.first-console-app.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/Calculator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/Person.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.first-console-app.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.first-console-app.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/first-console-app.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/first-console-app.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/first-console-app.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/first-console-app.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/first-console-app.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/first-console-app.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Variables/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Calculator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +19,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Arrays/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Classes/Person.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Classes/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Variables/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Classes/Calculator.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/HelloWorld/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelloWorld/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -96,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1646290389561</updated>
       <workItem from="1646290389564" duration="2583000" />
-      <workItem from="1646731800150" duration="898000" />
+      <workItem from="1646731800150" duration="2756000" />
     </task>
     <task id="LOCAL−00001" summary="first commit">
       <created>1646291076151</created>

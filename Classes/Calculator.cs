@@ -1,4 +1,4 @@
-namespace Classes;
+namespace CSharpfundamentals;
 {
     public class Calculator
     {
